@@ -1,0 +1,17 @@
+FizzBuzz:
+I’ve removed an unnecessary variable and used if-else to make the code simple.
+
+PlaintextToHtmlConverter:
+I have removed unnecessary variables (i,text,finalresult).
+Changed the data type of characterToConvert from string to char.
+Used IF-ELSE instead of switch statement. 
+Removed unnecessary methods 
+(pushACharacterToTheOutput(),stashNextCharacterAndAdvanceThePointer())
+ 
+TriviaGame:
+Removed createRockQuestion() methods because it doesn’t have much functionality.
+Removed isPlayable because it’s dead code.
+Removed the announce method because it just printed lines.
+Removed howManyPlayers()method.
+I have used else if statement instead of only if statement.
+Changed the wasCorrectlyAnswered()methods . because duplicate code was found.
