@@ -1,5 +1,5 @@
 FizzBuzz:
-I’ve removed an unnecessary variable and used if-else to make the code simple.
+I’ve removed comments and an unnecessary variable and used if-else to make the code simple.
 
 PlaintextToHtmlConverter:
 I have removed unnecessary variables (i,text,finalresult).
